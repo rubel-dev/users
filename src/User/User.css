@@ -1,0 +1,23 @@
+ .img{
+     width:100px;
+     height: 180px;
+     float: left;
+   
+      
+ }
+ .img img{
+     margin-top: 30px;
+     width:100px;
+     height: 100px;
+    
+ }
+.information{
+    margin-left: 120px;
+}
+ .users{
+     width:400px;
+     border:1px solid purple;
+     margin:10px 0px 10px 10px;
+     padding-left: 10px;
+     padding-bottom: 10px;
+ }
